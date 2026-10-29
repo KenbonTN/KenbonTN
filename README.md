@@ -22,6 +22,8 @@ I joined the Google-backed **Africa to Silicon Valley (A2SV)** program, solved 4
 
 [**LeetCode: 303 problems solved**](https://leetcode.com/u/Kenbon/): 112 easy · 181 medium · 10 hard, plus the 100 Days Badge 2024 for solving every day.
 
+[**Codeforces: 94 problems solved**](https://codeforces.com/profile/kenbonnurgi)
+
 #### 🔭 Where I'm heading
 
 Connecting **AI with the built environment**: using agentic AI and modern full-stack tools to automate complex civil engineering workflows and rethink how Africa plans and builds infrastructure.

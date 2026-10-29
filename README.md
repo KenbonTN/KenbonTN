@@ -1,6 +1,6 @@
 ### Hi, I'm Kenbon 👋
 
-**Product Manager** · Team Lead for Adot at [A2SV](https://a2sv.org) · Dual engineering background: **Computer Engineering & Civil Engineering**
+**Product Manager** · Team Lead for [Adot](https://adot.life) at [A2SV](https://a2sv.org) · Dual engineering background: **Computer Engineering & Civil Engineering**
 
 📍 Addis Ababa, Ethiopia
 
@@ -10,7 +10,7 @@ I'm a product manager who builds AI-driven products for social impact. My backgr
 
 #### 🚀 What I'm doing now
 
-- **Leading Adot**, a maternal health app at A2SV that helps mothers through pregnancy with symptom and mood tracking, journaling, personalized health insights and chat with a doctor. I manage the product, guide the technical roadmap, run UX audits, and still write frontend code.
+- **Leading [Adot](https://adot.life)**, a maternal health app at A2SV that helps mothers through pregnancy with symptom and mood tracking, journaling, personalized health insights and chat with a doctor. I manage the product, guide the technical roadmap, run UX audits, and still write frontend code.
 - **Fundraising and partnerships at A2SV.** I've written grant proposals to Google, Bloomberg, the Ethiopian Prime Minister's Office and Rwanda's Ministry of ICT, and drafted the MOUs behind A2SV's partnerships with Rwanda MinICT, the University of Rwanda and AUCA.
 - **Working with agentic AI and automation** (n8n, OpenClaw) every day.
 

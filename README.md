@@ -26,6 +26,8 @@ I'm a computer engineer who moved into product management, and I build AI-driven
 
 [**Codeforces: 94 problems solved**](https://codeforces.com/profile/kenbonnurgi)
 
+All my accepted solutions are in [**dsa-solutions**](https://github.com/KenbonTN/dsa-solutions).
+
 #### 🔭 Where I'm heading
 
 Connecting **AI with the built environment**: using agentic AI and modern full-stack tools to automate complex civil engineering workflows and rethink how Africa plans and builds infrastructure.

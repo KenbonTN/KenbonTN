@@ -1,10 +1,10 @@
 ### Hi, I'm Kenbon 👋
 
-**Product Manager** · Team Lead for [Adot](https://adot.life) at [A2SV](https://a2sv.org) · Dual engineering background: **Computer Engineering & Civil Engineering**
+**Computer Engineer** · Team Lead & Product Manager for [Adot](https://adot.life) at [A2SV](https://a2sv.org) · Also trained in **Civil Engineering**
 
 📍 Addis Ababa, Ethiopia
 
-I'm a product manager who builds AI-driven products for social impact. My background is in two engineering fields, so I look at problems from both the software side and the infrastructure side. I graduated with distinction from **Addis Ababa University** with two bachelor's degrees: **Computer Engineering** (Electrical & Computer Engineering) and **Civil Engineering** (Civil & Environmental Engineering).
+I'm a computer engineer who moved into product management, and I build AI-driven products for social impact. My background is in two engineering fields, so I look at problems from both the software side and the infrastructure side. I graduated with distinction from **Addis Ababa University** with two bachelor's degrees: **Computer Engineering** (Electrical & Computer Engineering) and **Civil Engineering** (Civil & Environmental Engineering).
 
 ---
 
@@ -14,9 +14,11 @@ I'm a product manager who builds AI-driven products for social impact. My backgr
 - **Fundraising and partnerships at A2SV.** I've written grant proposals to Google, Bloomberg, the Ethiopian Prime Minister's Office and Rwanda's Ministry of ICT, and drafted the MOUs behind A2SV's partnerships with Rwanda MinICT, the University of Rwanda and AUCA.
 - **Working with agentic AI and automation** (n8n, OpenClaw) every day.
 
-#### 🧭 How I got here
+#### 🧭 My product management journey
 
-I joined the Google-backed **Africa to Silicon Valley (A2SV)** program, solved 400+ algorithm problems and worked as an intern on products like **Bazar** and **RateEat**. Two years later I lead a product team.
+1. **Engineer first.** I joined the Google-backed **Africa to Silicon Valley (A2SV)** program and trained as a software engineer, solving 400+ algorithm problems along the way.
+2. **Shipping real products.** As an intern I worked on products like **Bazar** and **RateEat**, and learned how a product goes from an idea to something people use.
+3. **Leading a product.** Two years later I'm Team Lead & Product Manager for [Adot](https://adot.life). I own the product and roadmap, run UX audits, and still write code, so engineering and product meet in one role.
 
 #### 🧩 Problem solving
 

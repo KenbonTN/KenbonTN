@@ -1,10 +1,10 @@
 ### Hi, I'm Kenbon 👋
 
-**Product Manager & Team Lead for Adot at [A2SV](https://a2sv.org) · Civil, Electrical & Computer Engineer · Building AI-driven social impact products**
+**Product Manager** · Team Lead for Adot at [A2SV](https://a2sv.org) · Dual engineering background: **Computer Engineering & Civil Engineering**
 
 📍 Addis Ababa, Ethiopia
 
-I build digital products, and I think about problems from both the software side and the infrastructure side. I graduated with distinction from **Addis Ababa University** with two bachelor's degrees: **Electrical & Computer Engineering** and **Civil & Environmental Engineering**.
+I'm a product manager who builds AI-driven products for social impact. My background is in two engineering fields, so I look at problems from both the software side and the infrastructure side. I graduated with distinction from **Addis Ababa University** with two bachelor's degrees: **Computer Engineering** (Electrical & Computer Engineering) and **Civil Engineering** (Civil & Environmental Engineering).
 
 ---
 
@@ -17,6 +17,10 @@ I build digital products, and I think about problems from both the software side
 #### 🧭 How I got here
 
 I joined the Google-backed **Africa to Silicon Valley (A2SV)** program, solved 400+ algorithm problems and worked as an intern on products like **Bazar** and **RateEat**. Two years later I lead a product team.
+
+#### 🧩 Problem solving
+
+[**LeetCode: 303 problems solved**](https://leetcode.com/u/Kenbon/): 112 easy · 181 medium · 10 hard, plus the 100 Days Badge 2024 for solving every day.
 
 #### 🔭 Where I'm heading
 
